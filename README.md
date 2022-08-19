@@ -3,7 +3,7 @@
 This simple tool will check if any of your runescape accounts are alive
 by making a lookup on runescape's highscores. 
 
-There are some cases to cover if your accounts doesn't up:
+There are some cases to cover if your accounts doesn't show up:
 
 - Permanently banned
 - Locked
@@ -31,3 +31,6 @@ and then you can run it via the run button or in the terminal by
 executing the following command:
 
 `python main.py`
+
+After execution, you will find a filtered version of the account_input file
+where banned accounts have been sorted out. Enjoy! :-)
